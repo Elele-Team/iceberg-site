@@ -5,3 +5,4 @@ This is the website for the Iceberg Hypixel Guild. It includes PHP, HTML, CSS an
 
 The Iceberg Guild website is a website provided for the guild, to provide an overview on the actual guild's players and the whole hypixel experience integrated into it. The panel is custom coded created by [Elele.Team](https://elele.team) Development Team. 
 
+The assets folder is not included in this Git and just the actual pages of the website.
